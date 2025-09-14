@@ -10,7 +10,7 @@
 
 ### Links
 
-- Solution URL:
+- Solution URL: https://github.com/shadymo2291/clipboard-landing-page-master-solution
 
 ### Built with
 
